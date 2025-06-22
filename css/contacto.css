@@ -1,0 +1,30 @@
+main {
+  padding: 2rem;
+  background-color: #fefefe;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  color: #0056b3;
+}
+
+form .form-label {
+  font-weight: bold;
+}
+
+form .form-control {
+  border-radius: 5px;
+  box-shadow: none;
+}
+
+form button {
+  background-color: #007bff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #0056b3;
+}

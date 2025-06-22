@@ -1,0 +1,16 @@
+main {
+  background-color: #fffdf7;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+main h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+main p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
